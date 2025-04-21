@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "TEST HLS",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "logo": "https://ov4-engine.flamingtext.com/netfu/tmp28000/coollogo_com-23831077.png"
+  },
+  {
+    "nama": "ANTV",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/eepunx/logo/main/antv.png"
+  },
+  {
+    "nama": "SCTV",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
+    "logo": "https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png"
+  },
+  {
+    "nama": "INDOSIAR",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
+    "logo": "https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png"
+  },
+  {
+    "nama": "TEST MPD",
+    "url": "https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
+    "logo": "https://ov4-engine.flamingtext.com/netfu/tmp28000/coollogo_com-23831077.png"
+  }
+]
