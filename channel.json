@@ -5,6 +5,11 @@
     "logo": "https://ov4-engine.flamingtext.com/netfu/tmp28000/coollogo_com-23831077.png"
   },
   {
+    "nama": "TEST MPD",
+    "url": "https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
+    "logo": "https://ov4-engine.flamingtext.com/netfu/tmp28000/coollogo_com-23831077.png"
+  },
+  {
     "nama": "ANTV",
     "url": "http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8",
     "logo": "https://raw.githubusercontent.com/eepunx/logo/main/antv.png"
@@ -20,8 +25,23 @@
     "logo": "https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png"
   },
   {
-    "nama": "TEST MPD",
-    "url": "https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
-    "logo": "https://ov4-engine.flamingtext.com/netfu/tmp28000/coollogo_com-23831077.png"
+    "nama": "K+",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c",
+    "logo": "https://archive.org/download/k_20230607/K+.png"
+  },
+  {
+    "nama": "My Cinema",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c",
+    "logo": "https://bit.ly/3GExy24"
+  },
+  {
+    "nama": "Trans7",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8",
+    "logo": "https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png"
+   },
+  {
+    "nama": "TransTV",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8",
+    "logo": "https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png"
   }
 ]
